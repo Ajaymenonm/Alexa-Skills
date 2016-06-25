@@ -1,0 +1,36 @@
+AirportInfoIntent where can I get help if I {Info} something
+AirportInfoIntent where can I find help if I {Info} something
+AirportInfoIntent whom do I contact if I {Info} something
+AirportInfoIntent whom to contact if I {Info} something
+AirportInfoIntent whom do I contact for help if I {Info} something
+AirportInfoIntent how can I find if I {Info} something
+AirportInfoIntent what do I do if I {Info} something
+
+AirportInfoIntent are {Info} flights available from the airport 
+AirportInfoIntent are there any flights available for {Info} from the airport 
+AirportInfoIntent are there any flights for {Info} from the airport
+AirportInfoIntent are there any {Info} flights from the airport
+AirportInfoIntent are there any {Info} flights
+AirportInfoIntent is there any {Info} flights
+
+AirportInfoIntent suggest me some {Info} places to visit
+AirportInfoIntent suggest me some good {Info} places to visit
+AirportInfoIntent suggest me some nice {Info} places to visit
+AirportInfoIntent suggest me some places to visit for {Info}
+AirportInfoIntent tell me some places to visit for {Info}
+AirportInfoIntent tell me some nice {Info} places to visit
+AirportInfoIntent tell me some good {Info} places to visit
+AirportInfoIntent tell me some {Info} places to visit
+AirportInfoIntent which are the {Info} places to visit
+
+AirportInfoIntent tell me some {Info} which provide accommodation
+AirportInfoIntent tell me some {Info} to stay overnight
+AirportInfoIntent suggest me some {Info} which provide accommodation
+AirportInfoIntent which are the {Info} that provide accommodation
+
+AirportInfoIntent where can I book a {Info}
+AirportInfoIntent can I book a {Info}
+AirportInfoIntent where can I find a {Info}
+AirportInfoIntent whom should I call to book a {Info}
+AirportInfoIntent what should I do to book a {Info}
+

@@ -1,0 +1,22 @@
+{
+  "intents": [
+    {
+      "intent": "AirportInfoIntent",
+      "slots": [
+      {
+        "name" : "Info",
+        "type": "LIST_OF_INFO"
+      }
+     ]
+    },
+   {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
