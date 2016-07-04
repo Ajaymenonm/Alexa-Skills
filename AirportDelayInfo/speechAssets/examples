@@ -1,0 +1,30 @@
+*One Shot model
+
+1) Say "Alexa, ask help desk whom do I contact if I lose something"
+2) Say "Alexa, ask help desk are there any sightseeing flights from the airport"
+3) Say "Alexa, tell help desk to suggest me some tourist places to visit"
+4) Say "Alexa, ask help desk to tell me some hotels which provide accommodation"
+5) Say "Alexa, ask help desk where can I book a taxi"
+
+6) Say "Alexa, ask help desk for airport status for ATL"
+7) Say "Alexa, ask help desk for flight status for SFO"
+    
+ * Dialog model 1:
+    User: "Alexa, Open help desk/  Alexa, Launch help desk"
+    Alexa: "For delay information, tell me an Airport code. Or You can ask questions such as, where can I book a Taxi?"
+    User: "<ask a question>"
+    Alexa: "<answer>"
+    
+* Dialog model 2:
+    User: "Alexa, Open help desk/  Alexa, Launch help desk"
+    Alexa: "For delay information, tell me an Airport code. Or You can ask questions such as, where can I book a Taxi?"
+    User: "Give me airport status for ATL"
+    Alexa: "<answer>"
+
+* Dialog model 3:
+    User: "Alexa, Open help desk/  Alexa, Launch help desk"
+    Alexa: "For delay information, tell me an Airport code. Or You can ask questions such as, where can I book a Taxi?"
+    User: "Help Me"
+    Alexa: "<answer>"
+
+You can say stop/exit to quit from the skill.

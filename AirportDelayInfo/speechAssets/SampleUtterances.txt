@@ -1,0 +1,75 @@
+airportHelpDesk where can I get help if I {Info} something
+airportHelpDesk where can I find help if I {Info} something
+airportHelpDesk whom do I contact if I {Info} something
+airportHelpDesk whom to contact if I {Info} something
+airportHelpDesk whom do I contact for help if I {Info} something
+airportHelpDesk how can I find if I {Info} something
+airportHelpDesk what do I do if I {Info} something
+
+airportHelpDesk are {Info} flights available from the airport 
+airportHelpDesk are there any flights available for {Info} from the airport 
+airportHelpDesk are there any flights for {Info} from the airport
+airportHelpDesk are there any {Info} flights from the airport
+airportHelpDesk are there any {Info} flights
+airportHelpDesk is there any {Info} flights
+
+airportHelpDesk suggest me some {Info} places to visit
+airportHelpDesk suggest me some good {Info} places to visit
+airportHelpDesk suggest me some nice {Info} places to visit
+airportHelpDesk suggest me some places to visit for {Info}
+airportHelpDesk tell me some places to visit for {Info}
+airportHelpDesk tell me some nice {Info} places to visit
+airportHelpDesk tell me some good {Info} places to visit
+airportHelpDesk tell me some {Info} places to visit
+airportHelpDesk which are the {Info} places to visit
+
+airportHelpDesk tell me some {Info} which provide accommodation
+airportHelpDesk tell me some {Info} to stay overnight
+airportHelpDesk suggest me some {Info} which provide accommodation
+airportHelpDesk which are the {Info} that provide accommodation
+
+airportHelpDesk where can I book a {Info}
+airportHelpDesk can I book a {Info}
+airportHelpDesk where can I find a {Info}
+airportHelpDesk whom should I call to book a {Info}
+airportHelpDesk what should I do to book a {Info}
+
+airportHelpDesk {Info}
+
+airportinfo {AIRPORTCODE}
+airportinfo flight {AIRPORTCODE}
+airportinfo airport {AIRPORTCODE}
+airportinfo delay {AIRPORTCODE}
+airportinfo flight delay {AIRPORTCODE}
+airportinfo airport delay {AIRPORTCODE}
+airportinfo status {AIRPORTCODE}
+airportinfo flight status {AIRPORTCODE}
+airportinfo airport status {AIRPORTCODE}
+airportinfo info {AIRPORTCODE}
+airportinfo flight info {AIRPORTCODE}
+airportinfo airport info {AIRPORTCODE}
+airportinfo delay info {AIRPORTCODE}
+airportinfo flight delay info {AIRPORTCODE}
+airportinfo airport delay info {AIRPORTCODE}
+airportinfo status info {AIRPORTCODE}
+airportinfo flight status info {AIRPORTCODE}
+airportinfo airport status info {AIRPORTCODE}
+airportinfo for {AIRPORTCODE}
+airportinfo flight for {AIRPORTCODE}
+airportinfo airport for {AIRPORTCODE}
+airportinfo delay for {AIRPORTCODE}
+airportinfo flight delay for {AIRPORTCODE}
+airportinfo airport delay for {AIRPORTCODE}
+airportinfo status for {AIRPORTCODE}
+airportinfo flight status for {AIRPORTCODE}
+airportinfo airport status for {AIRPORTCODE}
+airportinfo info for {AIRPORTCODE}
+airportinfo flight info for {AIRPORTCODE}
+airportinfo airport info for {AIRPORTCODE}
+airportinfo delay info for {AIRPORTCODE}
+airportinfo flight delay info for {AIRPORTCODE}
+airportinfo airport delay info for {AIRPORTCODE}
+airportinfo status info for {AIRPORTCODE}
+airportinfo flight status info for {AIRPORTCODE}
+airportinfo airport status info for {AIRPORTCODE}
+
