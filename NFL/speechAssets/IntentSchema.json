@@ -1,0 +1,34 @@
+{
+  "intents": [
+    {
+      "intent": "playerBasicIntro",
+      "slots": [
+        {
+          "name": "Player",
+          "type": "LIST_OF_PLAYERS"
+        }
+      ]
+    },
+    {
+      "intent": "playerAge",
+      "slots": [
+        {
+          "name": "Player",
+          "type": "LIST_OF_PLAYERS"
+        },
+        {
+          "name": "Age",
+          "type": "AGE"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.StopIntent",
+      "slots": []
+    }
+  ]
+}

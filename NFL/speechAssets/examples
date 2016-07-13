@@ -1,0 +1,24 @@
+*One Shot model
+
+1) Say "Alexa, ask conference what are the upcoming events?"
+2) Say "Alexa, tell conference to tell me about Dubai Internet City"
+    
+ * Dialog model 1:
+    User: "Alexa, Open conference/  Alexa, Launch conference"
+    Alexa: "Welcome to DMC events. What can I help you with?"
+    User: "<ask a question>"
+    Alexa: "<answer>"
+    
+* Dialog model 2:
+    User: "Alexa, Open conference/  Alexa, Launch conference"
+    Alexa: "Welcome to DMC events. What can I help you with?"
+    User: "Tell me the history of DIC"
+    Alexa: "<answer>"
+
+* Dialog model 3:
+    User: "Alexa, Open conference/  Alexa, Launch conference"
+    Alexa: "Welcome to DMC events. What can I help you with?"
+    User: "Help Me"
+    Alexa: "<answer>"
+
+You can say stop/exit to quit from the skill.
